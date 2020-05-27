@@ -1,0 +1,16 @@
+#imageLink{
+	outline: none;
+	border: none;
+	border-radius: 5px;
+background: #fff4f4;
+box-shadow:  -12px -12px 11px #f0e5e5, 
+             12px 12px 11px #ffffff;
+}
+
+#paintIt{
+	outline: none;
+	border: none;
+	border-radius: 10px;
+	background: #fff4f4;
+	box-shadow: inset -5px -5px 9px #c2b9b9, inset 5px 5px 9px #ffffff;
+}
